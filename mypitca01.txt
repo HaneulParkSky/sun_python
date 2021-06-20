@@ -1,0 +1,4 @@
+파이썬 파일 기록은 쉽다.
+파일을 기록할때는 w 속성을 준다.
+life is short
+youneed python
