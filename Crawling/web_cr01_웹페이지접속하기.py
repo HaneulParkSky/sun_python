@@ -16,7 +16,7 @@ print(resp)
 print('is_ok:', resp.ok)
 print('status:', resp.status_code)
 
-# 인코딩 확인
+# 인코딩 확인 (한글 오류났을 때 확인)
 print('encoding:', resp.encoding)
 
 # 헤더 확인
